@@ -1,0 +1,6 @@
+{
+  "name": "Hidrometría Fluvial",
+  "description": "Gestión geoespacial de puntos de muestreo en arroyos conectada a Supabase y Google Maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

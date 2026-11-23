@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7068ea21-9715-407d-a6e3-fee4c5213f6f",
+    "nombre": "Puente Viejo — Naciente",
+    "latitud": -34.99124,
+    "longitud": -57.88241,
+    "arroyo": "Arroyo El Pescado",
+    "fecha_muestreo": "2026-10-12",
+    "tramo": "aguas arriba",
+    "created_at": "2026-11-23T18:24:12.181Z"
+  },
+  {
+    "id": "009d87b6-3163-4caa-955f-c989a6394633",
+    "nombre": "Reserva Parque Pereyra",
+    "latitud": -34.83871,
+    "longitud": -58.13692,
+    "arroyo": "Arroyo Pereyra",
+    "fecha_muestreo": "2026-10-18",
+    "tramo": "aguas abajo",
+    "created_at": "2026-11-23T18:25:12.182Z"
+  },
+  {
+    "id": "b2ccd860-eeb5-46b4-b6fe-71dcb320afff",
+    "nombre": "Toma Dique Roggero",
+    "latitud": -34.67432,
+    "longitud": -58.86754,
+    "arroyo": "Arroyo La Choza",
+    "fecha_muestreo": "2026-11-02",
+    "tramo": "aguas arriba",
+    "created_at": "2026-11-23T18:26:12.182Z"
+  }
+]
